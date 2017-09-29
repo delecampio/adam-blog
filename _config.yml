@@ -9,7 +9,7 @@ baseurl: "/delecampio.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
+author: Nome Completo do Meu Tio # add your name
 author-pic: adam-face.jpg
 about-author: Meu nome é Nome Completo do Meu Tio. Sou empresário, atleta e escritor. Mais conteúdo falando sobre ele aqui.
 
